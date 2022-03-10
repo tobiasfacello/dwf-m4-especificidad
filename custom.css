@@ -1,0 +1,22 @@
+body div.contenedor {
+	margin: 70px;
+}
+
+@media (min-width: 960px) {
+	body div.contenedor {
+		margin: 70px 260px;
+	}
+}
+
+html body div.contenedor h2.titulo {
+	font-family: "Poppins", sans-serif;
+	font-size: 50px;
+	font-weight: 400;
+}
+
+.contenedor p.texto {
+	width: 530px;
+	color: #000000;
+	font-family: "Poppins", sans-serif;
+	font-size: 20px;
+}
